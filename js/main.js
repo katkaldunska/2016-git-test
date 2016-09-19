@@ -14,7 +14,7 @@ $(function () {
     ];
 
     patientsList.forEach(function (patient) {
-        addPatient(patients);
+        addPatient(patient);
     })
 });
 
