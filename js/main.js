@@ -1,10 +1,11 @@
 $(function () {
     var patientsList = [
-        { firstName: "Jan", lastName: "Kowalski" },
         { firstName: "Adam", lastName: "Nowak" },
         { firstName: "Andrzej", lastName: "Kielcz" },
-        {firstName: "Piotr", lastName: "Kurek" },
-        {firstName: "Kasia", lastName: "Karek"}
+        { firstName: "Piotr", lastName: "Kurek" },
+        { firstName: "Kasia", lastName: "Karek" },
+        { firstName: "Basia", lastName: "Kerek" },
+
     ];
     var doctorsList = [
         { firstName: "Als", lastName: "Nowak" },
