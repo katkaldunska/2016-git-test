@@ -7,7 +7,7 @@ $(function () {
         {firstName: "Kasia", lastName: "Karek"}
     ];
     var doctorsList = [
-        { firstName: "Alek", lastName: "Nowak" },
+        { firstName: "Als", lastName: "Nowak" },
         { firstName: "Gosia", lastName: "Krek"}
     ];
 
