@@ -5,6 +5,7 @@ $(function () {
         { firstName: "Piotr", lastName: "Kurek" },
         { firstName: "Kasia", lastName: "Karek" },
         { firstName: "Basia", lastName: "Kerek" },
+        { firstName: "Asia", lastName: "Kirek" }
 
     ];
 
